@@ -8,7 +8,9 @@ def roll_call_dwarves(dwarves)
   end
 end
 
-def summon_captain_planet
+def summon_captain_planet(veggies)
+   #veggies = ["carrot",  "cucumber",  "pepper"]
+   
 end
 
 def long_planeteer_calls# code an argument here
