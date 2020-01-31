@@ -4,8 +4,7 @@ def roll_call_dwarves(dwarves)
   dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   collection = dwarves
  end
-dwarves
-end
+
 
 def summon_captain_planet# code an argument here
   # Your code here
