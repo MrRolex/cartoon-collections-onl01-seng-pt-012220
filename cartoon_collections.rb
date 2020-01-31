@@ -1,6 +1,5 @@
 require 'pry'
 def roll_call_dwarves(dwarves)
-  binding.pry
   dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   collection = dwarves
  end
