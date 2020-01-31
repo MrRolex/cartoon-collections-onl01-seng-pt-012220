@@ -1,4 +1,4 @@
-def roll_call_dwarves(names)
+def roll_call_dwarves(dwarves)
   dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   collection = dwarves
  end
