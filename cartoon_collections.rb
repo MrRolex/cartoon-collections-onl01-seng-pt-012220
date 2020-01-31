@@ -4,7 +4,7 @@ def roll_call_dwarves(names)
   # Your code here
   #.collect
   dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
-  
+  each_with_index = []
 end
 
 def summon_captain_planet# code an argument here
