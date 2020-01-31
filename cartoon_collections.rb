@@ -2,8 +2,9 @@ require 'pry'
 
 def roll_call_dwarves(dwarves)
   # dwarves = ["dopey", "bashful", "grumpy"]
-  dwarves.each do |names|
-    puts names
+  # 1. Dopey
+  dwarves.each.with_index(1) do |names, index|
+   puts index.names 
   end
 end
 
