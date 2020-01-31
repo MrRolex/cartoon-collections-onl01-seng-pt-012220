@@ -3,6 +3,7 @@ require .pry
 def roll_call_dwarves(names)
   dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   each_with_index = [1, 2, 3, 4]
+  
  end
 dwarves
 end
