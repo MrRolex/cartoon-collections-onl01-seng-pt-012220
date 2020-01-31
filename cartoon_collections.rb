@@ -3,6 +3,7 @@ require .pry
 def roll_call_dwarves(names)
   # Your code here
   #.collect
+  dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   
 end
 
