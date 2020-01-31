@@ -1,7 +1,6 @@
 require .pry
 
 def roll_call_dwarves(names)
-  dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   # Your code here
   #.collect
   
