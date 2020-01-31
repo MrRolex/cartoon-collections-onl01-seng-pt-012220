@@ -22,6 +22,7 @@ def long_planeteer_calls(long_planteer_calls)
   long_planteer_calls.each do |call|
     if call.length > 4
       answer = true
+    end
 end
 
 def find_the_cheese(item)
