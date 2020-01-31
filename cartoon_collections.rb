@@ -8,9 +8,7 @@ def roll_call_dwarves(dwarves)
   end
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
-  #.map
+def summon_captain_planet
 end
 
 def long_planeteer_calls# code an argument here
