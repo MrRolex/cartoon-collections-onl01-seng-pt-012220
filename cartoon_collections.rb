@@ -8,9 +8,7 @@ def roll_call_dwarves(dwarves)
   end
 end
 
-def summon_captain_planet(veggies)# code an argument here
-  # Your code here
-  # planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
+def summon_captain_planet(veggies)
    veggies.collect do |call|
      call.capitalize + "!"
      
@@ -19,9 +17,11 @@ def summon_captain_planet(veggies)# code an argument here
    
 end
 
-def long_planeteer_calls# code an argument here
-  # Your code here
-  #.find
+def long_planeteer_calls(long_planteer_calls)
+  answer = false
+  long_planteer_calls.each do |call|
+    if call.length > 4
+      answer = true
 end
 
 def find_the_cheese(item)
