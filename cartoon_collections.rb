@@ -1,4 +1,5 @@
 require 'pry'
+
 def roll_call_dwarves(dwarves)
   dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   collection = dwarves
