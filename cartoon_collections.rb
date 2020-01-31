@@ -3,7 +3,7 @@ require 'pry'
 def roll_call_dwarves(dwarves)
   # dwarves = ["dopey", "bashful", "grumpy"]
   dwarves.each do |names|
-    dwarves.
+    puts names
  end
 
 
