@@ -3,7 +3,7 @@ require .pry
 def roll_call_dwarves(names)
   dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   collection = dwarves
-  
+  binding.pry
  end
 dwarves
 end
